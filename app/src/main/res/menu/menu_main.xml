@@ -1,0 +1,40 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="org.me.gcu.labstuff.weatherapp.MainActivity">
+    <item
+        android:id="@+id/glasgow"
+        android:orderInCategory="100"
+        android:title="Glasgow"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/london"
+        android:orderInCategory="100"
+        android:title="London"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/newYork"
+        android:orderInCategory="100"
+        android:title="New York"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/oman"
+        android:orderInCategory="100"
+        android:title="Oman"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/mauritius"
+        android:orderInCategory="100"
+        android:title="Mauritius"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/bangladesh"
+        android:orderInCategory="100"
+        android:title="Bangladesh"
+        app:showAsAction="never" />
+</menu>
